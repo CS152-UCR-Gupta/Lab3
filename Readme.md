@@ -1,7 +1,7 @@
 CS152 Lab3: Code Generation Example
 ===================================
 
-[home page for lab3](https://www.cs.ucr.edu/~dtan004/prac3/lab03_codegen.html)
+[home page for lab3](https://cs152-ucr-gupta.github.io/website/lab03_codegen.html)
 
 ## Tools preparation
 
