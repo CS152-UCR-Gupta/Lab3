@@ -30,9 +30,4 @@ Use 'git' to clone the project template:
 
 Read the documentation of Lab3 and your tasks in [home page for lab3](https://cs152-ucr-gupta.github.io/website/lab03_codegen.html). 
 
-## Submission 
-Due date: Aug 30, 2023
 
-This lab section has 20 additional points for your phase3-part1 project (100 points in total). If you have submitted Lab3 and lost within 20 points in part1, you can still get full credit. If you get over 100 points in part1 project, exceeding part will be automatically voided.
-
-Submission is the same as phase3: you just need to push your code to Github before the deadline. During the demo of phase3 part1, please send your Github link to your TA to indicate you have finished Lab3.
